@@ -1,0 +1,13 @@
+node_modules/
+chat/node_modules/
+chat/dist/
+scenes/
+out/
+capture/
+stills/
+uploads/
+music/*.mp3
+*.tsbuildinfo
+__pycache__/
+.DS_Store
+._*

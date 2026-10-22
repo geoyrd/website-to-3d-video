@@ -1,0 +1,30 @@
+{
+  "name": "website-to-3d-video",
+  "version": "1.0.0",
+  "description": "Turn any website into a 3D fly-over video. Paste a link, pick a format and music, get an MP4.",
+  "main": "editor.mjs",
+  "scripts": {
+    "setup": "npm install && npx playwright install chromium && npm --prefix chat install && npm --prefix chat run build && node scripts/get-music.mjs",
+    "start": "node editor.mjs",
+    "build:chat": "npm --prefix chat run build",
+    "music": "node scripts/get-music.mjs"
+  },
+  "keywords": [
+    "3d",
+    "video",
+    "website",
+    "webgl",
+    "playwright",
+    "flyover"
+  ],
+  "author": "yrdagency",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.134.0",
+    "playwright": "^1.49.1",
+    "ws": "^8.22.0",
+    "zod": "^4.6.7"
+  },
+  "private": true,
+  "type": "module"
+}

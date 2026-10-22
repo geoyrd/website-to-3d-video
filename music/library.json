@@ -1,0 +1,68 @@
+{
+ "_license": "Tracks are not included in this repository. `npm run music` downloads them from Pixabay (Pixabay Content License: free for commercial use, no attribution required). They are registered in YouTube Content ID, so an automatic claim is possible; it can be disputed with the Pixabay license.",
+ "tracks": [
+  {
+   "id": "pulse",
+   "name": "Pulse",
+   "mood": "Minimal tech, clean",
+   "file": "1-minimal-tech.mp3",
+   "artist": "PaulYudin",
+   "source": "https://pixabay.com/music/corporate-minimal-tech-151890/",
+   "download": "https://cdn.pixabay.com/download/audio/2023/05/31/audio_860b258b6e.mp3?filename=paulyudin-minimal-tech-151890.mp3"
+  },
+  {
+   "id": "neon-grid",
+   "name": "Neon Grid",
+   "mood": "Modern beats",
+   "file": "2-modern-tech.mp3",
+   "artist": "The_Mountain",
+   "source": "https://pixabay.com/music/beats-modern-tech-171580/",
+   "download": "https://cdn.pixabay.com/download/audio/2023/10/15/audio_0d45fdef96.mp3?filename=the_mountain-modern-tech-171580.mp3"
+  },
+  {
+   "id": "launch-day",
+   "name": "Launch Day",
+   "mood": "Upbeat product demo",
+   "file": "3-product-tech.mp3",
+   "artist": "The_Mountain",
+   "source": "https://pixabay.com/music/upbeat-product-tech-310134/",
+   "download": "https://cdn.pixabay.com/download/audio/2025/03/06/audio_88fa8997e5.mp3?filename=the_mountain-product-tech-310134.mp3"
+  },
+  {
+   "id": "momentum",
+   "name": "Momentum",
+   "mood": "Energetic commercial",
+   "file": "4-future-tech-commercial.mp3",
+   "artist": "PaulYudin",
+   "source": "https://pixabay.com/music/upbeat-future-tech-corporate-commercial-322264/",
+   "download": "https://cdn.pixabay.com/download/audio/2025/04/03/audio_dc3c80027c.mp3?filename=paulyudin-future-tech-corporate-commercial-322264.mp3"
+  },
+  {
+   "id": "clean-lines",
+   "name": "Clean Lines",
+   "mood": "Calm minimal",
+   "file": "5-instrumental-minimal.mp3",
+   "artist": "The_Mountain",
+   "source": "https://pixabay.com/music/corporate-instrumental-minimal-522469/",
+   "download": "https://cdn.pixabay.com/download/audio/2026/04/20/audio_c56530a8d4.mp3?filename=the_mountain-instrumental-minimal-522469.mp3"
+  },
+  {
+   "id": "midnight",
+   "name": "Midnight",
+   "mood": "Dark, mysterious",
+   "file": "6-dark-minimal.mp3",
+   "artist": "The_Mountain",
+   "source": "https://pixabay.com/music/mystery-dark-minimal-375983/",
+   "download": "https://cdn.pixabay.com/download/audio/2025/07/17/audio_1d7cf4e4a2.mp3?filename=the_mountain-dark-minimal-375983.mp3"
+  },
+  {
+   "id": "drift",
+   "name": "Drift",
+   "mood": "Short ambient",
+   "file": "7-minimal-tech-ambient.mp3",
+   "artist": "Good_B_Music",
+   "source": "https://pixabay.com/music/introoutro-minimal-tech-ambient-9965/",
+   "download": "https://cdn.pixabay.com/download/audio/2021/10/27/audio_7175f8385f.mp3?filename=good_b_music-minimal-tech-ambient-9965.mp3"
+  }
+ ]
+}
