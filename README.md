@@ -1,5 +1,13 @@
 # website-to-3d-video
 
+<p align="center">
+  <img src="media/flyover.gif" alt="A landing page turned into a 3D fly-over video" width="720">
+</p>
+
+<p align="center">
+  <a href="https://github.com/geoyrd/website-to-3d-video/releases/download/v1.0.0/website-to-3d-video-demo.mp4"><b>▶ Watch the 30-second demo</b></a>
+</p>
+
 **Turn any website into a 3D video.** Paste a link, pick a format and music, and get a cinematic fly-over of the page as an MP4 in about a minute. The camera glides down the page, cards and photos lift off in 3D with depth of field and motion blur, and the film ends on a title card with the brand.
 
 Everything runs locally. No AI and no subscriptions are needed.
@@ -14,7 +22,7 @@ Everything runs locally. No AI and no subscriptions are needed.
 ## Install
 
 ```bash
-git clone https://github.com/yrdagency/website-to-3d-video.git
+git clone https://github.com/geoyrd/website-to-3d-video.git
 cd website-to-3d-video
 npm run setup
 ```

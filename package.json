@@ -17,7 +17,7 @@
     "playwright",
     "flyover"
   ],
-  "author": "yrdagency",
+  "author": "Georgian Iordache",
   "license": "MIT",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.134.0",
